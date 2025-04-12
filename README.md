@@ -32,7 +32,8 @@ Welcome to **Rust_Learning**! This repository is dedicated to learning and exper
 4️⃣ Diamond Shape  
 5️⃣ Number Pyramid  
 6️⃣ **Calculator** – Perform basic arithmetic operations ✖️➗➕➖  
-7️⃣ **Voting Form** – Simple voting simulation with eligibility check 🗳️  
+7️⃣ **Voting Form** – Simple voting simulation with eligibility check 🗳️
+8️⃣ MultiProgram – Reverse of number, prime, factorial, palindrome, digit count, Armstrong number
 
 ✨ More coming soon!
 
