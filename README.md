@@ -45,6 +45,7 @@ Welcome to Rust_Learning! This repository is designed to help users dive deep in
 1️⃣1️⃣ **Element Search (Single & Multiple Occurrences)** – Locate values within an array 🔍
 1️⃣2️⃣ **Loop-Based Execution** – Perform repeated actions until user exits 🔁
 1️⃣3️⃣ **Error Handling Demonstrations** – Manage invalid inputs gracefully 🚦
+1️⃣4️⃣ **Array Rotation** – Perform left and right rotations based on user choice 🔄
 
 ✨ More coming soon!
 
